@@ -45,5 +45,5 @@
 
 ## Custo do RenounceOwnership do SampleToken
 ``` https://alfajores-blockscout.celo-testnet.org/tx/0xbe92e182bb4426419fb52f588c217af3e5358cd4d193c23648809acae93c95b3/internal-transactions ```
-### Gas Limit & Usage by Txn: 36,767 | 22,627
-0.0000000005 CELO * U$ 3,18 * 22627 = U$ 0,00003 (0,0000113135 CELO)
+### Gas Limit & Usage by Txn: 36,767 | 7,219
+0.0000000005 CELO * U$ 3,18 * 7219 = U$ 0,00001 (0,0000036095 CELO)
